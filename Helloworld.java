@@ -1,6 +1,6 @@
 package assignment23;
 
-public class Helloworld {
+public class Helloworld1332 {
 	 
 	public static void main(String args[])
 	{
